@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Kind Sans Thin';
+    font-style: normal;
+    src: url("fonts/Kind Sans Thin.otf") format("opentype");
+}
+@font-face {
+    font-family: 'Moderustic medium';
+    font-style: normal;
+    src: url("fonts/Moderustic-Medium.otf") format("opentype");
+}
+@font-face {
+    font-family: 'Moderustic regular';
+    font-style: normal;
+    src: url("fonts/Moderustic-Regular.otf") format("opentype");
+}
+@font-face {
+    font-family: 'Moderustic light';
+    font-style: normal;
+    src: url("fonts/Moderustic-Light.otf") format("opentype");
+}
